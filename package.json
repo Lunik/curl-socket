@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Lunik/curl-socket/issues"
   },
-  "homepage": "https://github.com/Lunik/curl-socket#readme"
+  "homepage": "https://github.com/Lunik/curl-socket#readme",
+  "dependencies": {}
 }
